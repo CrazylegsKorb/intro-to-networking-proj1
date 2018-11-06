@@ -1,5 +1,5 @@
 # intro-to-networking-proj1
-Daily planner with local weather through darksky highlighting the start of major precipitation(>20% chance), and access to user's google calendar. The purpose of this application is to supply the user with the essential information about their day before they leave the house.
+Daily planner with local weather through darksky highlighting the start of major precipitation(>20% chance). The purpose of this application is to supply the user with the essential information about their day before they leave the house.
 
 ## Current State of Project
 * Alpha
@@ -10,8 +10,7 @@ Daily planner with local weather through darksky highlighting the start of major
 * Currently in design phase
 
 #### Not Yet Started
-* Google calendar API
-* flickr API
+* Google Places API
 
 
 ## Built With
