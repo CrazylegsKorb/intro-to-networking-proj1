@@ -1,21 +1,18 @@
 # intro-to-networking-proj1
-Daily planner with local weather through darksky highlighting the start of major precipitation(>20% chance). The purpose of this application is to supply the user with the essential information about their day before they leave the house.
+Scans through a drink database to provide users with drinks by ingredient, name, or ID in the database.
+The purpose of this application is to supply the user with information about drinks they might be able to make, or provide a list of ingredients to make specific drinks.
 
 ## Current State of Project
-* Alpha
-* 1.0
-* The app needs to make recieve input location from the user, use mapquest API to get latitiude and longitude, use lat and long to find weather and background image for the front-end through darksky and flikr APIs, and display google calendar events for the current day.
+* Beta
+* 1.1
 
 #### Under Development
-* Currently in design phase
+* HTML front end to display pictures of drinks, and handle user input
 
 #### Not Yet Started
-* Google Places API
-
+* HTML coding
 
 ## Built With
-
-Obviously change these to fit your needs - You must list your API here with links!!!!
 
 * [Nodejs](https://nodejs.org/en/docs/) - Backend
 * [Expressjs](http://expressjs.com/en/4x/api.html) - Backend Routing
